@@ -1,0 +1,15 @@
+*.DS_Store
+*.asv
+*.m~
+*.mex*
+*.class
+*octave-workspace
+*.log
+*.tar*
+*.zip
+pretrainedLeftVentricleSegmentation.zip
+pretrainedLeftVentricleSegmentationModel.mat
+CardiacMRI.zip
+Cardiac MRI
+fire_matlab_ismrmrd_serverstandaloneApplication
+fire-matlab-segmentlvdocker
